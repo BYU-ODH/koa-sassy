@@ -1,0 +1,25 @@
+{
+  "name": "koa-sassy",
+  "version": "0.0.0",
+  "description": "Compile and deliver Sass and SCSS files on the fly in Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BYU-ODH/koa-sassy.git"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "koa"
+  ],
+  "author": "Ian Hunter <ianhunter@byu.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BYU-ODH/koa-sassy/issues"
+  },
+  "homepage": "https://github.com/BYU-ODH/koa-sassy",
+  "engines": { "node": "0.11.x" }
+}
